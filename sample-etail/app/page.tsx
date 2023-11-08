@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import { TextField } from '@mui/material'
 
 export default function Home() {
   return (
@@ -111,7 +112,7 @@ export default function Home() {
     // </main>
     <main>
       
-      HEYYYYY SETHU AND LOHI
+      <TextField>HEYYYYY SETHU AND LOHI</TextField>
       
     </main>
   )
