@@ -111,7 +111,7 @@ export default function Home() {
     // </main>
     <main>
       
-        HEYYYYY SETHU AND LOHI
+      HEYYYYY SETHU AND LOHI
       
     </main>
   )
